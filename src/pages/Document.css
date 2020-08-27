@@ -1,0 +1,28 @@
+.menu_scroll {
+    overflow: auto;
+}
+
+.tab_content {
+    text-align: justify;
+}
+
+.tab_selected {
+    border-top-style: solid;
+    border-top-width: 3px;
+    border-top-color: var(--ion-color-light-contrast);
+}
+
+.tab_unselected {
+    border-top-style: solid;
+    border-top-width: 3px;
+    border-top-color: var(--background);
+}
+
+.start_invisible {
+    opacity: 0;
+}
+
+ion-content p {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "isotopical",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
