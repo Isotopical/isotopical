@@ -58,7 +58,7 @@ So I just clicked Create and Azure began building the resources for my new web a
 
 # Custom Domain
 
-After checking out the app, I quickly went to setup my domain under Custom domains. As of writing this, the only subdomain they allow is www. I'm hoping they open that up in the future so I can use any subdomain I'd like. For now, it serves my purpose well as the app is a website, a Website as an App (WaaA), if you will. To ensure my domain pointed to the correct place, I setup a CNAME record at my registrar for www that pointed to the value provided on this screen. I clicked Validate to finish the process and my domain now pointed to the production build of my app.
+After checking out the app, I quickly went to setup my domain under Custom domains. As of writing this, only one subdomain is allowed. I setup `www` for this site. I'm hoping they open that up in the future so I can use any subdomain I'd like along with the route domain `gregmarine.com`. For now, it serves my purpose well as the app is a website, a Website as an App (WaaA), if you will. To ensure my domain pointed to the correct place, I setup a CNAME record at my registrar for www that pointed to the value provided on this screen. I clicked Validate to finish the process and my domain now pointed to the production build of my app.
 
 ![Custom Domains](/assets/img/collections/posts/azure-static-web-apps/azure-static-web-apps-9.jpg "Custom Domains")
 
@@ -110,3 +110,5 @@ As of writing this, it only allows for a single Staging environment. I have an A
 # That was easy!
 
 I now have three environments for my web apps. Development, Staging, and Production are all now easy to setup with Azure Static Web Apps. Anytime I commit code from my local development environment and create a pull request, GitHub runs my build/deploy script and moments later my changes are live in Staging. Once the pull request is merged into my default release branch, GitHub runs my script again and the changes are live in production. The above steps were super easy and straight forward. There were no command line tools to learn and I can easily apply this to any web apps I'd like to host in Azure Static Web Apps. I simply code and check in my changes. It couldn't be easier!
+
+For more information about Azure Static Web Apps, [see the documentation](https://docs.microsoft.com/en-us/azure/static-web-apps/).
