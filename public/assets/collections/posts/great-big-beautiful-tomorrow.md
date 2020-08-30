@@ -48,25 +48,25 @@ To this day, Walt Disney's Carousel of Progress holds the record of the longest-
 
 ## Act 1
 
-It is Valentine's Day and John and Rover introduce us to the opening of the 20th century telling us about the new marvels of their new ice box and indoor plumbing. All things we take advantage of in our modern world. But at the time, these simple items were quite the marvels indeed!
+It is Valentine's Day and John and Rover introduce us to the opening of the 20th century telling us about the new marvels of their new ice box and kerosene lamps. Unspoiled milk and good lighting are things we take advantage of in our modern world. But at the time, these simple items were quite the marvels indeed!
 
 ![Act 1](/assets/img/collections/posts/great-big-beautiful-tomorrow/great-big-beautiful-tomorrow-5.jpg "Act 1")
 
 ## Act 2
 
-The roaring twenties and the celebration of American Independence Day usher in new technology like snap on lights and an electric starter for John's car. There is also this amazing thing where one can travel by train from New York to California in just 3 days!
+The roaring twenties and the celebration of American Independence Day usher in new technology like snap on lights, electric appliances, and an electric starter for John's car. There is also this amazing thing where one can travel by train from New York to California in just 3 days!
 
 ![Act 2](/assets/img/collections/posts/great-big-beautiful-tomorrow/great-big-beautiful-tomorrow-6.jpg "Act 2")
 
 ## Act 3
 
-America in the 1940s brings us to a new concept called the rat race. It is Fall and Halloween, and now television brings entertainment into the home. There are even automatic dishwashers now! John is pretty handy at this point and makes an automatic paint mixer that goes haywire and throws paint everywhere.
+America in the 1940s brings us to a new concept called the rat race (commuting to work). It is Fall and Halloween, and now television brings entertainment into the home. There are even automatic dishwashers now! John is pretty handy at this point and makes an automatic paint mixer that goes haywire and throws paint everywhere.
 
 ![Act 3](/assets/img/collections/posts/great-big-beautiful-tomorrow/great-big-beautiful-tomorrow-7.jpg "Act 3")
 
 ## Act 4
 
-Virtual reality, voice activated gadgets, and Christmas lights round out the show. John ends up burning the Christmas turkey when he inadvertently sets the oven to 975 degrees as he repeats the score of the video game being played on the TV.
+Virtual reality, voice activated gadgets, and Christmas lights round out the show. John ends up burning the Christmas turkey when he inadvertently sets the oven to 975 degrees as he repeats the score of the video game being played on the TV by grandma!
 
 ![Act 4](/assets/img/collections/posts/great-big-beautiful-tomorrow/great-big-beautiful-tomorrow-8.jpg "Act 4")
 
@@ -78,10 +78,10 @@ Technology is a huge part of my life. In fact, it is what I do. As a software en
 
 Today's technology was only possible by 20th century innovation. And no one was more innovative in the previous century than Walt Disney. It only makes sense for me to want to model my personal motivations and ambitions to align with his. At least to the extent of imagining what can be possible and make it happen. Those possibilities I imagine today can become the great big beautiful tomorrow!
 
+![Walt Disney's Carousel of Progress](/assets/img/collections/posts/great-big-beautiful-tomorrow/great-big-beautiful-tomorrow-9.jpg "Walt Disney's Carousel of Progress")
+
 # My Favorite Attraction
 
 I began this article by saying the Carousel of Progress is by far my favorite attraction at the Walt Disney World Resort in Florida. Many of the things I wrote about above may have you thinking it is somewhat obvious as to why that is. However, none of that is truly the explanation behind "the why."
 
 Including family and friends of Walt Disney, various sources say that the Carousel of Progress was his favorite attraction. Of all of the attractions he brought to the World's Fair in 1964-1965, it seemed Walt Disney was especially devoted to this attraction. Knowing that he poured so much of himself into this, that is why I share with Walt Disney that the Carousel of Progress is my favorite attraction.
-
-![Walt Disney's Carousel of Progress](/assets/img/collections/posts/great-big-beautiful-tomorrow/great-big-beautiful-tomorrow-9.jpg "Walt Disney's Carousel of Progress")
