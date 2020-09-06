@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Return to Walt Disney World
-date: 2020-09-04
+date: 2020-09-06
 author: Greg Marine
 tags: 
 - disney
@@ -9,7 +9,7 @@ tags:
 - vacation
 - covid19
 close_button: /posts
-published: false
+published: true
 ---
 
 It probably goes without saying, 2020 has been a rough year. So rough, many modern economic staples came to a complete halt. One such staple that is near and dear to me is the Walt Disney World Resort. Not only does it bring back childhood memories, it is a special place to me as an adult. I can go there and forget about the rest of my world and its trouble. And this is a year when I needed it most. Now that WDW has reopened, I finally had the opportunity to experience the magic once again.
