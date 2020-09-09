@@ -21,6 +21,7 @@ const Home: React.FC = () => {
         <IonGrid>
           <IonRow>
             <IonCol
+              sizeXs="12"
               sizeSm="4"
               offsetSm="2"
               sizeXl="3"
@@ -33,6 +34,7 @@ const Home: React.FC = () => {
               edit, such as VS Code, and commit the content to GitHub. It couldn't be easier!
             </IonCol>
             <IonCol
+              sizeXs="12"
               sizeSm="4"
               sizeXl="3"
             >
@@ -42,6 +44,7 @@ const Home: React.FC = () => {
 
           <IonRow>
             <IonCol
+              sizeXs="12"
               sizeSm="4"
               offsetSm="2"
               sizeXl="3"
@@ -50,6 +53,7 @@ const Home: React.FC = () => {
               <IonImg src="/assets/img/site/home/isocontent.png" className="home_img" />
             </IonCol>
             <IonCol
+              sizeXs="12"
               sizeSm="4"
               sizeXl="3"
               className="home_txt"
@@ -64,6 +68,7 @@ const Home: React.FC = () => {
 
           <IonRow>
             <IonCol
+              sizeXs="12"
               sizeSm="4"
               offsetSm="2"
               sizeXl="3"
@@ -77,6 +82,7 @@ const Home: React.FC = () => {
               browser, and operating system. Budget or premium phone, iOS or Android, Windows or Mac, your site will just work.
             </IonCol>
             <IonCol
+              sizeXs="12"
               sizeSm="4"
               sizeXl="3"
             >
@@ -86,6 +92,7 @@ const Home: React.FC = () => {
 
           <IonRow>
             <IonCol
+              sizeXs="12"
               sizeSm="4"
               offsetSm="2"
               sizeXl="3"
@@ -94,6 +101,7 @@ const Home: React.FC = () => {
               <IonImg src="/assets/img/site/home/isocloud.png" className="home_img" />
             </IonCol>
             <IonCol
+              sizeXs="12"
               sizeSm="4"
               sizeXl="3"
               className="home_txt"
