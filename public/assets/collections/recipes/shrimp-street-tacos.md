@@ -23,7 +23,7 @@ published: true
 
 This recipe makes an excellent marinade for shrimp street tacos. This started as shrimp fajitas and therefore will work for that as well. However, street tacos are a favorite entree in my household. So, that is what I'll stick to for the title of this recipe!
 
-![Shrimp Street Tacos](/assets/img/collections/recipes/shrimp-street-tacos/shrimp-street-tacos.jpg "Shrimp Street Tacos")
+![Shrimp Street Tacos](/assets/img/collections/recipes/shrimp-street-tacos/shrimp-street-tacos-1.jpg "Shrimp Street Tacos")
 
 <!--more-->
 
@@ -85,5 +85,7 @@ This recipe makes an excellent marinade for shrimp street tacos. This started as
 # Notes
 
 This recipe works well for fajitas as well. For vegetables, I would use the bell peppers and onions. Street tacos work will with coleslaw mix.
+
+![Shrimp Street Tacos](/assets/img/collections/recipes/shrimp-street-tacos/shrimp-street-tacos-2.jpg "Shrimp Street Tacos")
 
 For steak, try [this steak marinade](/recipes/fajita-steak-marinade).
