@@ -16,7 +16,7 @@ tags:
 - marinade
 - mexican
 - seafood
-published: false
+published: true
 ---
 
 # Overview
@@ -43,7 +43,7 @@ This recipe makes an excellent marinade for shrimp street tacos. This started as
 
 ## Vegetables
 
-- 2 tbsp extra-virgin olive oil
+- 4 tbsp extra-virgin olive oil
 - 1/2 bag coleslaw mix (or 2 bell peppers and 1/2 onion thinly sliced)
 - 2 tsp garlic powder
 - 2 tsp cumin
@@ -67,10 +67,10 @@ This recipe makes an excellent marinade for shrimp street tacos. This started as
 
 ## Vegetables and Shrimp
 
-1. Coat skillet with olive oil
+1. Coat skillet with 2 tbsp olive oil
 2. Set stove to medium-high heat
 3. Add vegetables to skillet
-4. Coat vegetables with dry ingredients
+4. Coat vegetables with remaining 2 tbsp of olive oil and then dry ingredients
 5. Mix often until vegetables are cooked through
 6. Add shrimp to skillet and cook with vegetables 4-5 minutes
 
