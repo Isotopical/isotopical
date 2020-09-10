@@ -43,10 +43,11 @@ This recipe makes an excellent marinade for shrimp street tacos. This started as
 
 ## Vegetables
 
-- 1/2 bag coleslaw mix
-...or
-- 2 bell peppers thinly sliced
-- 1/2 thinly sliced
+- 2 tbsp extra-virgin olive oil
+- 1/2 bag coleslaw mix (or 2 bell peppers and 1/2 onion thinly sliced)
+- 2 tsp garlic powder
+- 2 tsp cumin
+- 1 tsp chili powder
 
 ## Sauce
 
@@ -64,10 +65,25 @@ This recipe makes an excellent marinade for shrimp street tacos. This started as
 2. Add shrimp and toss with marinate to coat.
 3. Seal bag and marinate for 15 or more minutes.
 
+## Vegetables and Shrimp
 
+1. Coat skillet with olive oil
+2. Set stove to medium-high heat
+3. Add vegetables to skillet
+4. Coat vegetables with dry ingredients
+5. Mix often until vegetables are cooked through
+6. Add shrimp to skillet and cook with vegetables 4-5 minutes
+
+## Plating (Serves 4)
+
+1. Arrange 4 street taco tortillas evenly on each plate
+2. Place even amounts of shrimp and vegetables on each tortilla (should be enough for 16 tacos)
+3. Evenly drizzle sauce over all tacos
 
 ---
 
 # Notes
 
-Flank or skirt steak is best for fajitas. However, sirloin cut into strips will also work.
+This recipe works well for fajitas as well. For vegetables, I would use the bell peppers and onions. Street tacos work will with coleslaw mix.
+
+For a steak, try [this steak marinade](/recipes/fajita-steak-marinade).
