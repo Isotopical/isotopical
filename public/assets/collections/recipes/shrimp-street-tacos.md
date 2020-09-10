@@ -6,7 +6,7 @@ tabs:
 - Ingredients
 - Instructions
 - Notes
-title: Fajita Steak Marinade
+title: Shrimp Street Tacos
 date: 2020-09-09
 author: Greg Marine
 tags: 
