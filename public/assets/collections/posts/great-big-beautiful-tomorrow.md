@@ -7,7 +7,7 @@ author: Greg Marine
 published: true
 ---
 
-My favorite attractions at the Walt Disney World Resort in Florida is by far the Carousel of Progress. It most certainly is not a thrill ride. Nor is it a ride from one of the Disney movies and one unlikely to become a movie. So, why would it be my favorite, and by far nonetheless? The answer may surprise some. For fans of Walt Disney, the answer will no doubt make perfect sense.
+My favorite attraction at the Walt Disney World Resort in Florida is by far the Carousel of Progress. It most certainly is not a thrill ride. Nor is it a ride from one of the Disney movies and one unlikely to become a movie. So, why would it be my favorite, and by far nonetheless? The answer may surprise some. For fans of Walt Disney, the answer will no doubt make perfect sense.
 
 <!--more-->
 
