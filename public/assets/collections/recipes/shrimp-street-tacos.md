@@ -86,4 +86,4 @@ This recipe makes an excellent marinade for shrimp street tacos. This started as
 
 This recipe works well for fajitas as well. For vegetables, I would use the bell peppers and onions. Street tacos work will with coleslaw mix.
 
-For a steak, try [this steak marinade](/recipes/fajita-steak-marinade).
+For steak, try [this steak marinade](/recipes/fajita-steak-marinade).
