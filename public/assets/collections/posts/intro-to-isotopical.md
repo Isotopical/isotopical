@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to Isotopical
-date: 2020-09-17
+date: 2020-09-18
 author: Greg Marine
 tags: 
 - technology
@@ -13,7 +13,7 @@ tags:
 - ionic
 - reactjs
 close_button: /posts
-published: false
+published: true
 ---
 
 How many times have you been visiting a web site and wondered, "How did they make this site?" Yeah, I don't do that either. But as a software developer who has been programming professionally for more than 24 years now, I've seen content management systems of all shapes and sizes. A few years ago I had considered making one myself. But that itch didn't get scratched until now. What started as a fun exercise and proof-of-concept became the platform that powers this website: [Isotopical](https://www.isotopical.website).
