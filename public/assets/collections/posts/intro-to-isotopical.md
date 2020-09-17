@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to Isotopical
-date: 2020-09-14
+date: 2020-09-17
 author: Greg Marine
 tags: 
 - technology
@@ -66,4 +66,12 @@ I use Azure Static Web Apps to host this site. It is ideal for static site gener
 
 ## Isotopical
 
-As Ionic and React use physics terminology, I landed on the name based on a similar flow of thought.
+As Ionic and React use physics terminology, I landed on the name based on a similar flow of thought. Isotopical represents isotopes of varying source content relating to a particular subject as classified according to the subject, or collection. An isotope is a chemistry term used to describe each of two forms of the same element that contain an equal numbers of protons but different numbers of neutrons in their nuclei. In a sense, you can look at content as an element with equal numbers of protons and the layout engine of Isotopical as a means by which to represent those elements with differing numbers of neutrons.
+
+# Case Study
+
+My personal web site, [gregmarine.com](https://www.gregmarine.com) is the first case study for Isotopical and the reason I created it. I wanted to be able to host a blog and also be able to publish the recipes for my culinary experiments. So, in a sense, I am dog fooding my own software. This has enabled me to come up with some initial layouts and features. As I continue to develop my web site, Isotopical will continue to grow. For example, I plan to design a portfolio layout so I can highlight some of the work I do.
+
+# What's Next?
+
+I'll be writing more in depth articles on the technology that powers Isotopical and how you can use it to power your own site. Currently, only GitHub and Azure are supported for publishing content using Isotopical. I plan to add what I am calling fusion drivers that will allow other services to be used to provide a connection to content. Other hosting providers will be adding along side Azure as well as a Software as a Service I called Isotopical Reactor; which will be a service you can use to host your site without any technical knowledge.
