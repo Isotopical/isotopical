@@ -50,4 +50,6 @@ Wings are one of my family's favorite things to eat. As a matter of fact, before
 
 # Notes
 
-Toss wings in sauce in a large mixing bowl to cover thoroughly.
+Toss 5 lbs of wings in sauce in a large mixing bowl to cover thoroughly.
+
+If using this as a dip, cut ingredients in half as this recipe was designed for the wings to be tossed and well coated.
