@@ -10,7 +10,7 @@ tags:
 - food
 - review
 close_button: /posts
-published: false
+published: true
 ---
 
 One of the more entertaining attractions I have enjoyed at the Walt Disney World Resort is the Jungle Cruise in Adventureland at the Magic Kingdom park. As you disembark on your journey, your Jungle Cruise skipper navigates a boat along the course of a river and points out the many wonderful things to see throughout your tour. It is most known for the many puns the skippers tell while you enjoy the experience. After being on the cruise for "Niles and Niles", a great place to get some quality food and continue the humor, I recommend the [Jungle Navigation Co. LTD Skipper Canteen](https://disneyworld.disney.go.com/dining/magic-kingdom/jungle-navigation-skipper-canteen/)
@@ -29,7 +29,7 @@ Something else I love to do any time I journey to the most magical place on Eart
 
 # Not All Puns are Created Equal
 
-You may have noticed the pun in the intro paragraph above. One of the best parts of the Jungle Cruise is the constant jokes and puns from the skippers. However, this attraction has not always been so punny! In the begin, Jungle Cruise was quite a serious ride through the exotic. But legend has it that one skipper spiced up his tour a bit by telling jokes along the way. When Walt Disney heard about this, he was intrigued and wanted to hear this for himself. When the skipper noticed he had Walt on his boat, he went back to the standard script.
+You may have noticed the pun in the intro paragraph above. One of the best parts of the Jungle Cruise is the constant jokes and puns from the skippers. However, this attraction has not always been so punny! In the beginning, Jungle Cruise was quite a serious ride through the exotic. But legend has it that one skipper spiced up his tour a bit by telling jokes along the way. When Walt Disney heard about this, he was intrigued and wanted to hear this for himself. When the skipper noticed he had Walt on his boat, he went back to the standard script.
 
 The legend continues when Walt boarded this skipper's boat once more incognito. As the skipper did not realize the creator of this magical world was on board again, the skipper kept with his whimsical joke telling this time. The legend concludes that Walt loved this so much that he completely re-imagined the scripts. Jokes and puns have been told on this world famous attraction ever since.
 
