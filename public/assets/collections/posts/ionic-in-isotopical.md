@@ -14,7 +14,7 @@ close_button: /posts
 published: false
 ---
 
-In [my last article](/posts/intro-to-isotopical) on [Isotopical](https://www.isotopical.website), I introduced you my take on a pseudo content management system I wrote that powers this website. In this article I'll be going into more detail about the user interface framework I chose for this project, [Ionic](https://ionicframework.com). As I wanted to take a mobile first approach in the project, while also fully supporting desktop browsers, Ionic was a natural choice. 
+In [my last article](/posts/intro-to-isotopical) on [Isotopical](https://www.isotopical.website), I introduced you my take on a pseudo content management system I created that powers this website. In this article I'll be going into more detail about the user interface framework I chose for the project, [Ionic](https://ionicframework.com). As I wanted to take a mobile first approach in the project, while also fully supporting desktop browsers, Ionic was a natural choice. 
 
 <!--more-->
 
@@ -51,3 +51,11 @@ The Ionic website boasts that they are performance obsessed. My experience with 
 # HTML, CSS, and JavaScript
 
 One of the most powerful features of Ionic is that it implements all of this magic using just HTML, CSS, and JavaScript. The 100+ UI components that make up the arsenal are standard Web Components built from StencilJS, as I mentioned earlier. What all of this really means to the developer is they can use their existing skills and tool chain to accomplish amazing user experiences.
+
+As I have been working with HTML and JavaScript since 1996, and CSS since 1997, being able to utilize skills I have honing for over two decades was quite an attractive option. And although Ionic was designed as hybrid mobile solution, its use of Web technologies means it can also be used for any type of web app or general website.
+
+# The Right Choice
+
+It is important to weight the pros and cons for the technology stack to use on a project. Not all stacks are created equal and there isn't one to rule them all. Hopefully you have gathered by all of the above that I truly feel Ionic was the right choice for the project for the user interface and experience. Thanks to a great team and leadership within the company, Ionic also seems like it will be around for years to come.
+
+In my next article, I'll go into detail about why I chose Ionic's support of ReactJS to organize the source code and design patterns.
