@@ -96,6 +96,8 @@ This web site is the first case study for Isotopical and the reason I created it
 
 I'll be writing more in depth articles on the technology that powers Isotopical and how you can use it to power your own site. Currently, only GitHub and Azure are officially supported for publishing content using Isotopical. I plan to add what I am calling *fusion drivers* that will allow other services to be used to provide a connection to content. Other hosting providers will be adding along side Azure, as well as a [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service) I'll call *Isotopical Reactor*; which will be a service you can use to host your site without any technical knowledge whatsoever. Stay tuned!
 
+In [my next article](/posts/ionic-in-isotopical) of this series, I go into detail about why I chose Ionic for the UI components for Isotopical.
+
 To check out the source code for Isotopic, see its [repo on GitHub](https://github.com/Isotopical/isotopical).
 
 ![What's Next](/assets/img/collections/posts/intro-to-isotopical/intro-to-isotopical-11.jpg "What's Next")
