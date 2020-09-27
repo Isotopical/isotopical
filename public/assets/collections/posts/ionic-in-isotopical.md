@@ -66,7 +66,7 @@ As I have been working with HTML and JavaScript since 1996, and CSS since 1997, 
 
 # The Right Choice
 
-It is important to weigh the pros and cons for the technology stack to use on a project. Not all stacks are created equal and there isn't one to rule them all. Hopefully you have gathered by all of the above that I truly feel Ionic was the right choice for Isotopical for the user interface and experience. Thanks to a great team and leadership within the company, Ionic also seems like it will be around for years to come.
+It is important to weigh the pros and cons for the technology stack to use on a project. Not all stacks are created equal and there isn't one to rule them all. Hopefully you have gathered by all of the above that I truly feel Ionic was the right choice for Isotopical for the user interface and experience. Thanks to a great team and leadership within the company, Ionic also seems like it will be around for years to come. I highly recommend [checking them](https://ionicframework.com) out and see if Ionic is right for your next project.
 
 In my next article, I'll go into detail about why I chose Ionic's support of ReactJS to organize the source code, manage assets, and define design patterns.
 
