@@ -11,7 +11,7 @@ tags:
 - isotopical
 - ionic
 close_button: /posts
-published: false
+published: true
 ---
 
 In [my last article](/posts/intro-to-isotopical) on [Isotopical](https://www.isotopical.website), I introduced you to my take on a pseudo content management system I created that powers this website. In this article I'll be going into more detail about the user interface framework I chose for the project, [Ionic](https://ionicframework.com). As I wanted to take a mobile first approach in the project, while also fully supporting desktop browsers, Ionic was a natural choice. 
