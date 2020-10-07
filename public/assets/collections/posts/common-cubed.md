@@ -18,7 +18,17 @@ Over the years I have learned what is and isn't important in my life. With a glo
 
 # Commonsense
 
-Roundabouts?
+I have been driving for nearly 30 years. I'm far from a great driver. But I can hold my own. I've owned cars ranging from a 1986 Ford Aerostar to a Chevy Cruze. Now I own a Honda Odyssey. It is a smooth ride and a great joy to drive.
+
+For the majority of my time in the driver's seat, intersections were controlled by stop signs, traffic signals, or yield signs. It was simple. You just did what the sign or signal told you. No guess work. You really only needed to be sure you were clear to go before moving.
+
+This all seemed to work really well until I would come to a four-way stop that was backed up a quarter of a mile in all directions. Even traffic signals at busy intersections would often be on timers instead of having sensors that would manage traffic control automatically. I suppose this led to traffic circles, or roundabouts, to start springing up.
+
+In theory, a traffic circle is a practical way of handling intersections that are frequently used. They are typically designed to slow traffic down to a pace that would allow equitable access to the intersecting streets without requiring everyone to stop. Again, that is the theory.
+
+In practice, however, many people either do not decrease their speed while others come to a complete stop as if it were a four-way stop. This isn't a big deal in during low traffic periods. But during a rush hour time frame, this can completely defeat the purpose. One would think Commonsense would be engaged. In my experience, this has not be the case.
+
+When I go through a traffic circle, I know how to pace myself in such a way I rarely need to stop. I find myself being impatient with those who do not understand how these modern marvels of traffic controlling technology work. I feel it is a Commonsense solution to traffic problems and I really wish those who do not know how to use one would simply go a different route.
 
 # Common Courtesy
 
@@ -40,6 +50,18 @@ During this journey, I came across all sorts of personality types. Some that cam
 
 One of the things I always did my best to do was look directly at the person speaking as to convey I was listening to what they were saying. I find it quite important for the sake of good communication to make eye contact. Sometimes, this even meant turning around in my cubical so I could face the person coming to me to talk.
 
-Unfortunately, this was not always reciprocated.
+Unfortunately, this was not always reciprocated. In one case, I had a collogue who not only did not ever look me in the eye, they wouldn't even turn around in their cubical when I came to talk to them.
+
+More often than not, this person would not give me the Common Decency to acknowledge my presence. Even when I was there at their request, they would continue about their business while asking their question or making their statement. I feel as though they were not only disrespecting me, they were also unlikely respecting themselves considering I was there for them in the first place.
 
 # All We Need is Love
+
+Now that I have given examples of Commonsense, Common Courtesy, and Common Decency, you might be wondering why the lamentation? Well, I do have a point here. And I am going to try to take my own advice.
+
+All of these commonalities have one thing, well, in common. L. O. V. E. Having love for others can truly make all of these easy to achieve. Putting others before myself can really make a difference here.
+
+In the case of Commonsense, loving others can lead to understanding how anything works. Doing something incorrectly over and over without trying to seek understanding can lead to selfishness or pride to prevent you from making the commonsense decisions in life.
+
+For Common Courtesy, putting yourself in the other person's shoes, as it were, can really open your mind to doing the right thing. Instead of clapping and saying, "Good job!" Why not try having compassion and lending a helping hand in love.
+
+Finally, Common Decency is one of the easiest ways to learn how to love. When you give someone your full and undivided attention, it will go a long way in terms of not only making the other person feel important, it will start to make you respect yourself.
