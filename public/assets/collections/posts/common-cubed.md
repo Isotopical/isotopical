@@ -9,7 +9,7 @@ tags:
 - personal
 - life lessons
 close_button: /posts
-published: false
+published: true
 ---
 
 Over the years I have learned what is and isn't important in my life. With a global pandemic that hit home personally, as well as some new career moves I did not expect, 2020 has been a great reminder of what I should make my priorities. For best way to be able to focus on those important priorities, I look to Commonsense, Common Courtesy, and Common Decency. The "Common Cubed" always leads me to the inevitability of discovering the root of all things important.
@@ -30,7 +30,7 @@ In theory, a traffic circle is a practical way of handling intersections that ar
 
 In practice, however, many people either do not decrease their speed while others come to a complete stop as if it were a four-way stop. This isn't a big deal during low traffic periods. But during a rush hour time frame, this can completely defeat the purpose. One would think Commonsense would be engaged. In my experience, this has not been the case.
 
-When I go through a traffic circle, I know how to pace myself in such a way I rarely need to stop. I find myself being impatient with those who do not understand how these modern marvels of traffic controlling technology work. I feel it is a Commonsense solution to traffic problems and I really wish those who do not know how to use one would simply go a different route.
+When I go through a traffic circle, I know how to pace myself in such a way I would rarely need to stop. I find myself being impatient with those who do not understand how these modern marvels of traffic controlling technology work. I feel it is a Commonsense solution to traffic problems and I really wish those who do not know how to use one would simply go a different route.
 
 # Common Courtesy
 
@@ -52,11 +52,11 @@ I have had a career that has spanned over two decades. In fact, it is well into 
 
 During this journey, I came across all sorts of personality types. Some that came across as sweet. Some, not so sweet. I do my best to assume noble intent in all interactions I have with other people. However, sometimes, it is obvious there was no nobility intended by the other person.
 
-One of the things I always did my best to do was look directly at the person speaking as to convey I was listening to what they were saying. I find it quite important for the sake of good communication to make eye contact. Sometimes, this even meant turning around in my cubical so I could face the person coming to me to talk.
+One of the things I always did my best to do was look directly at the person speaking as to convey I was listening to what they were saying. I find it quite important for the sake of good communication to make eye contact. Sometimes, this even meant turning around in my cubical so I could face the person coming to talk to me.
 
 ![Common Decency](/assets/img/collections/posts/common-cubed/common-cubed-3.jpg "Common Decency")
 
-Unfortunately, this was not always reciprocated. In one case, I had a collogue who not only did not ever look me in the eye, they wouldn't even turn around in their cubical when I came to talk to them.
+Unfortunately, this was not always reciprocated. In one case, I had a colleague who not only did not ever look me in the eye, they wouldn't even turn around in their cubical when I came to talk to them.
 
 More often than not, this person would not give me the Common Decency to acknowledge my presence. Even when I was there at their request, they would continue about their business while asking their question or making their statement. I feel as though they were not only disrespecting me, they were also unlikely respecting themselves considering I was there for them in the first place.
 
