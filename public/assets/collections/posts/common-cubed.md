@@ -80,4 +80,4 @@ In the case of Commonsense, loving others can lead to understanding how anything
 
 For Common Courtesy, putting myself in the other person's shoes, as it were, can really open my mind to doing the right thing. Instead of clapping and saying, "Good job!", why don't I try having compassion and lending a helping hand in love.
 
-Finally, Common Decency is one of the easiest ways to learn how to love. When I give someone my full and undivided attention, it will go a long way in terms of not only making the other person feel important, it will start to make me respect yourself.
+Finally, Common Decency is one of the easiest ways to learn how to love. When I give someone my full and undivided attention, it will go a long way in terms of not only making the other person feel important, it will start to make me respect myself.
