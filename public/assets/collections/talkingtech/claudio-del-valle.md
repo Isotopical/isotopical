@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talking with Michael Callaghan
+title: Talking with Claudio Del Valle
 date: 2020-10-19
 author: Greg Marine
 tags: 
