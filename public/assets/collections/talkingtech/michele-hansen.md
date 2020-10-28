@@ -19,19 +19,8 @@ This week I had a fun chat with one of the co-founders of Geocodio and the co-ho
 
 <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/710a799c"></iframe>
 
-Michele Hansen
-https://twitter.com/mjwhansen
-
-Geocodio:
-https://www.geocod.io
-https://twitter.com/Geocodio
-
-Software Social Podcast
-https://softwaresocial.dev
-https://twitter.com/SoftwareSocPod
-
 Greg Marine  
-This week, I've got a guest, who is the co founder of geocode. Do and is also the co host of software, social podcast. Michelle Hanson. Michelle, how are you today?
+This week, I've got a guest, who is the co founder of [Geocode](https://www.geocod.io) ([On Twitter](https://twitter.com/Geocodio)). Do and is also the co host of [Software Social](https://softwaresocial.dev) ([On Twitter](https://twitter.com/SoftwareSocPod)) podcast. [Michelle Hanson](https://twitter.com/mjwhansen). Michelle, how are you today?
 
 Michele Hansen  
 Good. How are you, Greg?
