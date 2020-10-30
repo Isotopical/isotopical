@@ -47,11 +47,22 @@ API Key and URL
 # Ionic
 https://ionicframework.com/docs/vue/your-first-app
 
-npm install -g @ionic/cli@testing native-run cordova-res
+npm install -g @ionic/cli@latest
 
-ionic start watson-chat blank --type vue --tag vue-beta --capacitor
+ionic start
 
-cd watson-chat
+Framework: Vue
+
+Project name: weather-vue
+
+Template: sidemenu
+
+cd weather-vue
+
+
+
+
+
 
 npm install ibm-watson
 
