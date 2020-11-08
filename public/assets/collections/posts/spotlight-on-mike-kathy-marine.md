@@ -17,7 +17,9 @@ Without a doubt, 2020 has been one of the most difficult years this world has fa
 <!--more-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vaMlaaVrEIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
+
+# Mike & Kathy Marine
+
 This past summer, my wife's family had contracted the COVID virus, and it spread through them like wildfire. Part of that my wife was called upon to take care of her grandparents and one of her aunts, to bring them back to health. And in the process, she contracted the virus as well. Unfortunately, one of her uncles and grandfather passed away from the virus.
 
 This whole time she stayed with them and when she came home, I put her in quarantine as to protect myself and her children. I implemented a rigorous cleaning process and wearing of masks. She was quarantined by herself and I only went in there when it was necessary. But as a part of that, I also wanted to make sure not to spread it to the community around me, so I stay at home.
