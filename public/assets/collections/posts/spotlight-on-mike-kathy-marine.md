@@ -9,7 +9,7 @@ tags:
 - parents
 - covid
 close_button: /posts
-published: false
+published: true
 ---
 
 Without a doubt, 2020 has been one of the most difficult years this world has faced in my lifetime. I'm closing the year out with some introspection and reflection on how 2020 has affected me personally. As part of that process, I'm doing a 2020 Spotlight to showcase individuals who have made a positive impact on me this year. This spotlight is on my parents, Mike and Kathy!
