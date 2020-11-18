@@ -30,4 +30,4 @@ Had I not given up at the time, I would have more than likely caught that bass. 
 
 I was raised in the church. In fact, all but a few years of my life I even served in some capacity. The roots of faith grow deep in my family. When I was growing up, everyone in my great grand father's bloodline attended the same church. A lot has changed over the years at that church. Pastors have come and gone, the music has evolved, and only my parents remain.
 
-Allstate 2002
+After a failed attempt at running an Information Technology business in 2002, I joined a customer service team at the then third largest insurance company in the USA, Allstate. I originally signed on to be a claims representative in one of three Auto Express centers, ours being located in Indianapolis, Indiana.
