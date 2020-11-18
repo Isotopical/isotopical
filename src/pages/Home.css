@@ -1,12 +1,8 @@
+#home {
+    --background: url('/assets/img/site/home.jpg') no-repeat center/cover fixed
+}
+
 .home_avatar {
     width: 128px;
     height: 128px;
-}
-
-.home_txt {
-    font-size: 14pt;
-}
-
-.home_img {
-    width: 75%;
 }
